@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Data files (VERY IMPORTANT)
+artifacts/
+uploads/
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
