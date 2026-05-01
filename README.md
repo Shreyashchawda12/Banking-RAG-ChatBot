@@ -78,6 +78,7 @@ Automatically:
 
 ## 🏗️ Architecture
 
+<img width="1066" height="940" alt="image" src="https://github.com/user-attachments/assets/929ef614-72e4-4a32-b7e6-8ca20225bad3" />
 
 
 ---
